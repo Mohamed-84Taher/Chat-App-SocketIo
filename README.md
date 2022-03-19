@@ -1,4 +1,5 @@
 # Chat-App-SocketIo
+
 # in the terminal type
 cd server
 npm install
